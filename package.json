@@ -21,7 +21,7 @@
     "hubot-irc": ">= 0.1.9",
     "hubot-scripts": "git://github.com/github/hubot-scripts.git#master",
     "hubot-tell": "*",
-    "jsdom": ">= 0.2.14",
+    "jsdom": "== 3.1.2",
     "mathjs": ">= 1.5.0",
     "ntwitter": ">= 0.5.0",
     "optparse": "1.0.3",
